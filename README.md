@@ -51,8 +51,3 @@ I am actively working on improving my technical skills and looking for opportuni
 
 ---
 
-## 📊 GitHub Stats
-
-![Arpit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arpit-200626&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpit-200626&layout=compact&theme=tokyonight)
